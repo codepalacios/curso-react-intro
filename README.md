@@ -1,6 +1,8 @@
 # Repositorio base del Curso de Introducción a React.js en Platzi
 
-El presente repositorio contiene la finalización del proyecto desarrollado en el [Curso de Introducción a React.js](https://platzi.com/reactjs) el cual es una aplicación web de lista de tareas interactivas.
+El presente repositorio contiene la finalización del proyecto desarrollado en el Curso de Introducción a React.js el cual es una aplicación web de lista de tareas interactivas.
+
+- Link: <https://codepalacios.github.io/curso-react-intro/>
 
 ## Getting Started with Create React App
 
